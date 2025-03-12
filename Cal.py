@@ -5,3 +5,9 @@ Time = 12
 SI = (Principal * Rate_of_IN * Time)/ 100
 
 print(SI)
+
+Radius = 2
+pi = 3.14
+Cal_area_of_circle =(pi * Radius * 2)
+
+print(Cal_area_of_circle)
