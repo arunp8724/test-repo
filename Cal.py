@@ -2,7 +2,11 @@ Principal = 45
 Rate_of_IN = 9.5
 Time = 12
 
+<<<<<<< HEAD
 SI = (Principal * Rate_of_IN * Time("Down"))/ 100
+=======
+SI = (Principal * Rate_of_IN * Time("Drop"))/ 100
+>>>>>>> main
 
 print(SI)
 
